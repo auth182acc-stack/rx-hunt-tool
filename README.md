@@ -94,7 +94,7 @@ pip freeze > requirements.txt
 
 ## ผู้พัฒนา
 
-Manus AI
+lxn.dev
 
 ## License
 
